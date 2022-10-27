@@ -2,7 +2,7 @@
 - 👀 I’m interested in building my technical skill in Data Analysis
 - 🌱 I’m currently learning Data Analysis in the NG30 Days Of Learning
 - 💞️ I’m looking to collaborate on everything data analysis and projects
-- 📫 How to reach me @abanisemariam98@gmail.com
+- 📫 How to reach me @abanisemariam98@gmail.com or mariammorenikeji@outlook.com
 
 <!---
 myroyalgold/myroyalgold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
