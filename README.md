@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @myroyalgold
-- 👀 I’m interested in building my technical skill in Data Analysis
-- 🌱 I’m currently learning Data Analysis in the NG30 Days Of Learning
-- 💞️ I’m looking to collaborate on everything data analysis and projects
+- 👋 Hi, I’m Mariam Morenikeji Wasiu
+- 👀 I am Data Analyst and a Web Developer
+- 🌱 Python|SQL|PowerBI|Excel|R|HTML|CSS|Javascript|PHP|Tableau
+- 💞️ I’m looking to collaborate on everything data analysis and website projects.
 - 📫 How to reach me @abanisemariam98@gmail.com or mariammorenikeji@outlook.com
 
 <!---
